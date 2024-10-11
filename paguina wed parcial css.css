@@ -155,18 +155,18 @@ header{
     font-size: 18px;
 }
 
-.porfolio {
+.servicios {
     background-color: #eff1ef;
     padding: 100px 0px;
     color: #2d2f3a;
     font-size: 18px;
 }
 
-.g-porfolio {
+.g-servicios {
     display: flex;
 }
 
-.porfolio-txt-1 h2 {
+.servicios-txt-1 h2 {
     font-size: 55px;
     margin-bottom: 35px;
 }
